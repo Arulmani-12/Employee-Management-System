@@ -1,6 +1,6 @@
 # Employee Management System
 
-Overview
+## Overview
 The Employee Management System is a standalone application that allows an admin to manage employee details efficiently. The admin can log in with valid credentials and perform operations such as adding, deleting, updating, and viewing employee records.
 
 ## Features
@@ -44,6 +44,5 @@ The Employee Management System is a standalone application that allows an admin 
 4. Compile and run the Java application.
 
 ## Screenshot
-
-need to create a two table in my sql admin table and employee table
+![Emp](https://github.com/user-attachments/assets/b5870b80-e622-4687-b6da-caa3baf3c919)
 
